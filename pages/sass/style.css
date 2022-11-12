@@ -242,6 +242,9 @@ input {
   width: 100%;
   height: 103px;
 }
+.main-section .container .main-section__datawindow .input:focus {
+  outline: 0.5px solid #24A3FF;
+}
 .main-section .container .main-section__datawindow .main-section__window__placeholderAnswer__question {
   margin-top: 30px;
   margin-bottom: 15px;
